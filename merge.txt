@@ -1,1 +1,1 @@
-Création d'un conflit de merge
+Action du merge
